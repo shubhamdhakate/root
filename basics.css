@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+h2{
+    color:red;
+}
+h3{
+    color:red;
+}
+ul{
+    letter-spacing: 6px;
+    color:brown;
+}
+ol{
+    color: brown;
+}
+p{
+ font-size:19px;
+ color:brown;
+}
+a{
+    text-decoration:none;
+    background-color: yellow;
+    font-style: italic;
+}
+#first{
+    background-color: yellow;
+}
