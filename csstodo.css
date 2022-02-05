@@ -1,0 +1,58 @@
+
+.container{
+    position: relative;
+    display: inline-block;
+    margin: 200px;
+}
+.box1{
+    background-color: rgb(213, 219, 224);
+    width: 200px;
+    margin: 60px;
+    height:200px;
+    border: 4px solid red;
+    border-radius: 10px;
+    border-color: rgb(133, 7, 7);
+    display: inline-block;
+    text-align:center;
+    box-shadow: 5px 5px 3px red;
+}
+.box2{
+    background-color: rgb(232, 236, 240);
+    width: 200px;
+    height:200px;
+    border: 4px solid red;
+    border-radius: 10px;
+    border-color: rgb(156, 6, 6);
+    display: inline-block;
+    margin: 60px;
+    text-align:center;
+    box-shadow: 5px 5px 3px red;
+}
+.box3{
+    background-color: rgb(201, 210, 218);
+    width: 200px;
+    margin: 60px;
+    height:200px;
+    border-radius: 10px;
+    border: 4px solid red;
+    
+    border-color: rgb(143, 2, 2);
+    display: inline-block;
+    
+    text-align:center;
+    box-shadow: 5px 5px 3px red;
+}
+.Tasks{  position: relative;
+    top: 230px;
+    left: 200px;
+    
+    font-size:50px;
+
+
+}
+.b{
+    position: relative;
+    left: 450px;
+    font-size:50px:
+
+}
